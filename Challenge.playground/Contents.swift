@@ -78,6 +78,6 @@ func orderArray(initialArray: [Int], order: String) -> [Int] {
 var orderAsc = orderArray(initialArray: myArray, order: "Asc")
 var orderDesc = orderArray(initialArray: myArray, order: "Desc")
 
-print("Arreglo original: \(myArray)")
-print("Ascendente: \(orderAsc)")
-print("Descendente: \(orderDesc)")
+print("Fix original: \(myArray)")
+print("Ascendant: \(orderAsc)")
+print("Descendant: \(orderDesc)")
